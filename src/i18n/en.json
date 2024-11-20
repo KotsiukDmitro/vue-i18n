@@ -1,0 +1,13 @@
+{
+    "title": "LOG IN",
+    "placeholders": {
+        "userName": "User Name",
+        "password": "Password"
+    },
+    "forgot": "Forgot Password?",
+    "checkbox": "Remember me",
+    "buttons": {
+        "login": "Login"
+    },
+    "language": "Switch language"
+}

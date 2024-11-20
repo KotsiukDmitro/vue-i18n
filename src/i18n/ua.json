@@ -1,0 +1,13 @@
+{
+    "title": "Авторизація",
+    "placeholders": {
+        "userName": "Ім'я користувача",
+        "password": "Пароль"
+    },
+    "forgot": "Забули пароль ?",
+    "checkbox": "Запам'ятати",
+    "buttons": {
+        "login": "Вхід"
+    },
+    "language": "Змінити мову"
+}
